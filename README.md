@@ -47,7 +47,7 @@
 
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=gichunga&count_private=true&show_icons=true&theme=neon" alt="gichunga" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gichunga&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=shadow_green" alt="gichunga" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gichunga&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=gruvbox_light" alt="gichunga" height="165" />
  </p>
  
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gichunga&" alt="gichunga" /></p>
