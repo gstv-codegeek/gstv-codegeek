@@ -5,8 +5,6 @@
 
 <a href="https://wakatime.com/@018cc8de-4d53-4fec-8eed-f93df6e53aad"><img src="https://wakatime.com/badge/user/018cc8de-4d53-4fec-8eed-f93df6e53aad.svg" alt="Total time coded since Jan 2 2024" /></a>
 
-- 🔭 I’m currently working on Java/PHP/JavaScript
-- 👯 Looking forward to collaborate on fun projects
 <!-- - 🌱 I’m currently learning [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)  and [NodeJS](https://nodejs.org/en/)  -->
 - 📫 How to reach me:
 <p align="center"
@@ -24,7 +22,6 @@
     </a>&nbsp;&nbsp;
  </p>
  
-- ⚡Fun fact: 😄😄😄😄
 
 ### Languages and Tools:
 
