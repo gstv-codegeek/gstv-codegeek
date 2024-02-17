@@ -1,5 +1,5 @@
 <h1 align="center">I'm Gichunga Stephen</h1>
-<h3 align="center">A passionate Backend developer. <img src="https://www.flaticon.com/free-icon/programmer_3271488?term=software+coding&page=1&position=24&origin=search&related_id=3271488" width="14"/> </h3>
+<h3 align="center">A passionate Back-end developer. <img src="https://www.flaticon.com/free-icon/programmer_3271488?term=software+coding&page=1&position=24&origin=search&related_id=3271488" width="14"/> </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gichunga&column=9&theme=gruvbox&no-frame=true" alt="Gichunga Steve" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gichunga&color=blueviolet" alt="Gichunga Steve" /> </p>
 
