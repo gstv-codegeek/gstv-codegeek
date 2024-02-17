@@ -27,7 +27,7 @@
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25"/> -->
-<img src="https://img.shields.io/badge/Java-2F2625?style=for-the-badge&logo=java&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Java-F45E3F?style=for-the-badge&logo=CoffeeScript&logoColor=white" height="25"/>
 <!-- <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" height="25"/> -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25"/>
