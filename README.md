@@ -1,4 +1,4 @@
-<h1 align="center">I'm Gichunga Stephen,</h1>
+<h1 align="center">I'm Gichunga Stephen</h1>
 <h3 align="center">A passionate Backend developer. <img src="https://www.flaticon.com/free-icon/programmer_3271488?term=software+coding&page=1&position=24&origin=search&related_id=3271488" width="14"/> </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gichunga&column=9&theme=gruvbox&no-frame=true" alt="Gichunga Steve" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gichunga&color=blueviolet" alt="Gichunga Steve" /> </p>
@@ -27,7 +27,7 @@
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25"/> -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Java-2F2625?style=for-the-badge&logo=java&logoColor=white" height="25"/>
 <!-- <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" height="25"/> -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25"/>
