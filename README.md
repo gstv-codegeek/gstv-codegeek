@@ -10,7 +10,7 @@
 <a href="https://wakatime.com/@018cc8de-4d53-4fec-8eed-f93df6e53aad"><img src="https://wakatime.com/badge/user/018cc8de-4d53-4fec-8eed-f93df6e53aad.svg" alt="Total time coded since Jan 2 2024" /></a>
 
 <!-- - 🌱 I’m currently learning [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)  and [NodeJS](https://nodejs.org/en/)  -->
-- 📫 How to reach me:
+- 📫 You can reach me through :
 <p align="center"
 <a href="https://twitter.com/GichungaSteven">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
