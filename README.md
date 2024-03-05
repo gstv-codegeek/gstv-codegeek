@@ -44,7 +44,7 @@
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/> -->
 </p>
 
-###  GitHub Statistics
+###  GitHub Statistics:
 
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=gichunga&count_private=true&show_icons=true&theme=neon" alt="gichunga" width="420"/> 
