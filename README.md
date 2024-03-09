@@ -1,6 +1,7 @@
 <h1 align="center">I'm Gichunga Stephen: </h1>
 <h3 align="center">A Back-end Developer with a Passion for Problem Solving.</h3>
-https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Trust+but+verify+with+unit+testing+.)(https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Trust+but+verify+with+unit+testing
+(https://git.io/typing-svg)
 
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gichunga&column=9&theme=gruvbox&no-frame=true"             alt="Gichunga Steve" />
