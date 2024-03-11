@@ -12,7 +12,7 @@
 
 <!-- - 🌱 I’m currently learning [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)  and [NodeJS](https://nodejs.org/en/)  -->
 - 📫 You can reach me through :
-<p align="center"
+<p align="center">
 <a href="https://twitter.com/GichungaSteven">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />    
   </a>&nbsp;&nbsp;
