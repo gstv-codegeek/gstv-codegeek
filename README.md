@@ -53,7 +53,6 @@
  
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gichunga&" alt="gichunga" /></p>
 
-
 <!--
 **gichunga/gichunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
