@@ -1,6 +1,5 @@
 <h1 align="center">I'm Gichunga Stephen: </h1>
 <h3 align="center">A Back-end Developer with a Passion for Problem Solving.</h3>
-
 <p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gichunga&column=9&theme=gruvbox&no-frame=true"             alt="Gichunga Steve" />
     </a> 
