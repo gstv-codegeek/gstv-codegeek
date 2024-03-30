@@ -28,7 +28,6 @@
 
  
 ### Languages and Tools:
-
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" height="25"/> -->
 <img src="https://img.shields.io/badge/Java-F45E3F?style=for-the-badge&logo=CoffeeScript&logoColor=white" height="25"/>
