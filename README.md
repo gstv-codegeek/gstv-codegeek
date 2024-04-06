@@ -4,6 +4,7 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gichunga&column=9&theme=gruvbox&no-frame=true"             alt="Gichunga Steve" />
     </a> 
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gichunga&color=blueviolet" alt="Gichunga Steve" /> </p>
 
 <a href="https://wakatime.com/@018cc8de-4d53-4fec-8eed-f93df6e53aad"><img src="https://wakatime.com/badge/user/018cc8de-4d53-4fec-8eed-f93df6e53aad.svg" alt="Total time coded since Jan 2 2024" /></a>
