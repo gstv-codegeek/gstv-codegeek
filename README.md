@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋</h1>
 
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gichunga&column=9&theme=gruvbox&no-frame=true"             alt="Gichunga Steve" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gstv-codegeek&column=9&theme=gruvbox&no-frame=true"             alt="Steve" />
     </a> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gichunga&color=blueviolet" alt="Gichunga Steve" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gstv-codegeek&color=blueviolet" alt="Steve" /> </p>
 
 <a href="https://wakatime.com/@018cc8de-4d53-4fec-8eed-f93df6e53aad"><img src="https://wakatime.com/badge/user/018cc8de-4d53-4fec-8eed-f93df6e53aad.svg" alt="Total time coded since Jan 2 2024" /></a>
 
@@ -31,15 +31,15 @@
 ###  GitHub Statistics:
 
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=gichunga&count_private=true&show_icons=true&theme=neon" alt="gichunga" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gichunga&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=gruvbox_light" alt="gichunga" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gstv-codegeek&count_private=true&show_icons=true&theme=neon" alt="gstv-codegeek" width="420"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gstv-codegeek&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=gruvbox_light" alt="gstv-codegeek" height="165" />
  </p>
  
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gichunga&" alt="gichunga" /></p>
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gstv-codegeek&" alt="gstv-codegeek" /></p>
 
 
 <!--
-**gichunga/gichunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gstv-codegeek/gstv-codegeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
